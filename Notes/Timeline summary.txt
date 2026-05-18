@@ -1,0 +1,8 @@
+TIMELINE SUMMARY
+
+- Evidence image loaded into Autopsy for analysis.
+- Windows OS artifacts identified and parsed successfully.
+- Browser activity and recent document access reviewed.
+- Program execution artifacts examined through Run Programs analysis.
+- USB device attachment history identified.
+- Volatile memory analysis conducted using Volatility3 plugins including pslist, pstree, netscan, and cmdline.

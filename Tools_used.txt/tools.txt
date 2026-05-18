@@ -1,0 +1,5 @@
+Autopsy
+Volatility3
+PowerShell
+Windows Command Prompt
+7-Zip

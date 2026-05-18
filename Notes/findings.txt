@@ -1,0 +1,20 @@
+FORENSIC FINDINGS
+
+1. Verified integrity of forensic evidence using SHA256 hashing prior to analysis.
+
+2. Conducted memory forensic analysis using Volatility3:
+   - Enumerated running processes
+   - Reviewed parent-child process relationships
+   - Inspected command-line activity
+   - Analyzed active network connections
+
+3. Observed PowerShell execution associated with explorer.exe during process tree analysis.
+
+4. Performed Windows artifact analysis using Autopsy:
+   - Reviewed recent documents
+   - Examined recycle bin artifacts
+   - Inspected web browsing history and searches
+   - Reviewed USB device attachment history
+   - Examined installed programs and OS information
+
+5. Collected screenshots and investigation evidence throughout the analysis process for documentation and reporting.
